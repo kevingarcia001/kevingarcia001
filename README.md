@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" aling ="center">
+  <h1 aling="center"> Hola👋, soy Kevin García  </h1> 
+  <h3 aling="center">Actualmente estudiante de la carrera Informática Educativa, en la Univiersidad Autónoma de Nicaraga UNAN-MANAGUA
+  </h3>
+  </div>
+  
+ ---
+ 
+ ###  👩‍💻 About Me:
+ 
+ Contáctame por **garcikev525@gmail.com**
 
-<!--
-**kevingarcia001/kevingarcia001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Actualmente estoy aprendiendo **SQL y Git** 
