@@ -8,6 +8,8 @@
  
  ###  👩‍💻 About Me:
  
+ Actualmente estoy aprendiendo **SQL y Git** 
+  
  Contáctame por **garcikev525@gmail.com**
 
- Actualmente estoy aprendiendo **SQL y Git** 
+
